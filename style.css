@@ -6,6 +6,6 @@ input {
   margin: 5px;
 }
 
-input, text area, label {
+input, textarea, label {
   width: 100%;
 }
