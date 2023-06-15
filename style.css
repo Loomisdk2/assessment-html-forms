@@ -5,3 +5,7 @@ body {
 input {
   margin: 5px;
 }
+
+input, text area, label {
+  width: 100%;
+}
